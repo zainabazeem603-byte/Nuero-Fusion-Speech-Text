@@ -1,5 +1,5 @@
 """
-Neuro Fusion-RAG — Speech & Text Branch Demo
+Speech & Text Branch Demo
 ----------------------------------------------
 Live demo for the text-only and speech-only ablation models trained on the
 Pitt Corpus (Cookie Theft / Verbal Fluency / Sentence Construction tasks).
