@@ -3,7 +3,6 @@ torch==2.12.1
 transformers==5.12.1
 librosa
 numpy==2.2.6
-streamlit==1.58.0
 soundfile
 scikit-learn==1.7.2
 pandas==2.3.3
