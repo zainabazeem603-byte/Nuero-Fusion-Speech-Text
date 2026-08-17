@@ -110,7 +110,7 @@ def predict_speech(audio_path: str):
 
 with gr.Blocks(title="Neuro Fusion-RAG — Speech & Text Branch") as demo:
     gr.Markdown(
-        "# Neuro Fusion-RAG — Speech & Text Branch Demo\n"
+        "# Speech & Text Branch \n"
         "Text-only and speech-only ablation models from the Pitt Corpus study. "
         "Fusion (MRI + acoustic) branch not included in this demo — see model card below."
     )
