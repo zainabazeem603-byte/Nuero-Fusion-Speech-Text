@@ -10,3 +10,4 @@ pandas==2.3.3
 huggingface_hub==1.21.0
 tokenizers==0.22.2
 safetensors==0.8.0
+gradio
