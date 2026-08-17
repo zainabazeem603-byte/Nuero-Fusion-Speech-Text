@@ -1,6 +1,12 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch
-transformers
+torch==2.12.1
+transformers==5.12.1
 librosa
-numpy
-streamlit
+numpy==2.2.6
+streamlit==1.58.0
+soundfile
+scikit-learn==1.7.2
+pandas==2.3.3
+huggingface_hub==1.21.0
+tokenizers==0.22.2
+safetensors==0.8.0
