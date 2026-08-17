@@ -68,7 +68,7 @@ wav2vec_model = Wav2Vec2Model.from_pretrained("facebook/wav2vec2-base-960h").to(
 wav2vec_model.eval()
 
 
-LABELS = {0: "Control (no dementia signal)", 1: "Dementia signal detected"}
+LABELS = {0: "Dementia signal detected", 1: "Control (no dementia signal)"}
 
 
 def predict_text(transcript: str):
